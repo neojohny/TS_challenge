@@ -14,5 +14,5 @@ In this project, a two-year transaction history data from merchant was given to 
 * HP tuning
 * Reasoning for churn
 * Approach to handle the churn
-=================
+#### =============================================
 #### Lesson learnt: read the question carefully. if they want to present to business, then no need for technical details.
